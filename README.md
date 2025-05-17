@@ -1,2 +1,3 @@
 # senai-aula-1-
-pika
+aprendedo comando basicos do git
+
